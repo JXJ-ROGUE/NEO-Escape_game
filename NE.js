@@ -140,8 +140,8 @@ function draw() {
   if (player.y > 375) {
     player.y = 375;
   }
-  player.debug = mouse.pressing();
-  enemy.debug = mouse.pressing();
+  //player.debug = mouse.pressing();
+  //enemy.debug = mouse.pressing();
 
 }
  
